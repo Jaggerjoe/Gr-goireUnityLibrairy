@@ -1,4 +1,4 @@
-# Gr-goireUnityLibrairy
+# GregoireUnityLibrairy
 
 Du text.
 
